@@ -20,7 +20,7 @@ The project is in Phase 3 prototype status: the core app works, and the next foc
 - The CLI can run a data collection and valuation smoke test.
 - The Streamlit app provides a simple web interface.
 - Offline unit tests cover core valuation, market, currency, label, and discovery logic.
-- A Kaggle-friendly demo notebook is included.
+
 
 ## Kaggle / Portfolio Demo
 
